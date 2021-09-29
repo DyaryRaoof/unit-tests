@@ -1,0 +1,24 @@
+{
+  "name": "unit-tests",
+  "version": "1.0.0",
+  "description": "![](https://img.shields.io/badge/Microverse-blueviolet)",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest",
+    "watch": "jest --watchAll"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DyaryRaoof/unit-tests.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DyaryRaoof/unit-tests/issues"
+  },
+  "homepage": "https://github.com/DyaryRaoof/unit-tests#readme",
+  "devDependencies": {
+    "jest": "^27.2.4"
+  }
+}
